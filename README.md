@@ -2,6 +2,11 @@
 
 ![뀨...!](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+# FrontEnd Developer 💻
+
+안녕하세요. 프론트 개발자 포부리입니다 :)
+Good day!
+
 
 <!--
 **poburi/poburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
