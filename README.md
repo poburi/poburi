@@ -1,5 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpoburi)](https://hits.seeyoufarm.com)
 
+![뀨...!](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 <!--
 **poburi/poburi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
