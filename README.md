@@ -1,5 +1,3 @@
-<img src="https://postfiles.pstatic.net/MjAyMDEwMDJfMjcy/MDAxNjAxNjAzMjA0ODI2.Inyhl1PlY2r_4l-h2DgQMufwdWHNyVgD_PDTUrWhJh8g.FEmFsLKsZmC0TepMy9F5tHR53A2_YzseGMAsRPqW94Eg.JPEG.miyampuzzy/EjMsGNhVkAEtx4A.jpg?type=w966"/>
-
 ### About
 
 - 💻  새로운 언어와 라이브러리 및 프레임워크를 학습하는 것을 즐깁니다.
