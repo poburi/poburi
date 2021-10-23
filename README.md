@@ -9,3 +9,10 @@
 
 ### Skills
 
+<a href="https://javascript.info/"><img src="./images/js.png" alt="javascript" width="32" /></a>
+<a href="https://www.typescriptlang.org/"><img src="./images/ts.png" alt="typescript" width="32" /></a>
+<a href="https://ko.reactjs.org/"><img src="./images/react.png" alt="react" width="32" /></a>
+<a href="https://reactnative.dev/"><img src="./images/reactnative.png" alt="react native" width="32" /></a>
+<a href="https://graphql.org/"><img src="./images/graphql.png" alt="graphql" width="32" /></a>
+<a href="https://nextjs.org/"><img src="./images/next.png" alt="next js" width="32" /></a>
+<a href="https://www.php.net/"><img src="./images/php.jpg" alt="php" width="32" /></a>
