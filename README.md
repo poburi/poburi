@@ -1,7 +1,6 @@
 ### PIP Tag
 poe0908@pip
 poe0908@solana
-poe0908@busd
 poe0908@bsd
 
 ### About
