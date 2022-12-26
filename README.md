@@ -1,10 +1,3 @@
-### PIP Tag
-poe0908@pip
-poe0908@solana
-poe0908@busd
-poe0908@bsc
-poe0908@bnb
-
 ### About
 
 - 💻  새로운 언어와 라이브러리 및 프레임워크를 학습하는 것을 즐깁니다.
